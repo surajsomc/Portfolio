@@ -27182,23 +27182,58 @@ var _spaceBackgroundImagesSvgDefault = parcelHelpers.interopDefault(_spaceBackgr
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a Computer Science student studying at The University of Wisconsin Madison. \n I am a passionate problem solver with a strong interest in computer science. I have been fascinated by how computers can be used to solve real-world problems since I was a child. I am driven by the creativity and problem-solving challenges of the field, the ever-changing landscape of computer science, and the potential to make a real impact on the world.\nIn college, I have had the opportunity to learn about and apply computer science techniques to a variety of projects, ranging from developing innovative software applications to tackling complex algorithmic puzzles. Throughout my academic journey, I've embraced the chance to collaborate with like-minded peers, pushing the boundaries of what we can achieve together.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Java",
+    "C++/C/C#",
+    "Python",
+    "REST APIs",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "MongoDB",
+    "MongoDB Atlas",
+    "Artificial Integellience",
+    "SQL",
+    "PostgreSQL",
+    "Express.js",
+    "Node.js",
+    "React.js",
+    "React Native",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Git",
+    "GitHub",
+    "Visual Studio Code",
+    "Android Studio",
+    "Dockers",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Kubernetes",
+    "Jenkins",
+    "Cloud Computing",
+    "Unity",
+    "Unreal Engine",
+    "Web Development",
+    "Mobile Development",
+    "bcrypt",
+    "Blender",
+    "Adobe Creative Cloud",
+    "Linux/Unix",
+    "Slack",
+    "SDLC",
+    "Serverless", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "Ultimately, my goal is to leverage my skills and enthusiasm to tackle complex challenges, drive innovation, and make a positive impact. Whether it's refining existing systems for efficiency, developing new tools that simplify tasks, or delving into uncharted territories, I am ready to contribute my creativity, critical thinking, and passion for computer science to shape a better future for all.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -27210,7 +27245,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 53,
+                lineNumber: 88,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27226,7 +27261,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 63,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27234,12 +27269,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 64,
+                        lineNumber: 99,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 65,
+                        lineNumber: 100,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27254,17 +27289,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 76,
+                                lineNumber: 111,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 66,
+                        lineNumber: 101,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 79,
+                        lineNumber: 114,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27274,19 +27309,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 80,
+                        lineNumber: 115,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 54,
+                lineNumber: 89,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 52,
+        lineNumber: 87,
         columnNumber: 5
     }, undefined);
 };
